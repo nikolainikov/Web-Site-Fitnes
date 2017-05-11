@@ -1,0 +1,98 @@
+	body{
+			margin: 0 auto;
+			/*background-color: #6dd4f9;*/
+			background-image: url('http://fitness247.co/wp-content/uploads/2013/01/Male-Fitness-Models-Background-Image1.jpg');
+			/*background-color: black;*/
+			color: #fff;
+			font-family: Arial;
+		}
+
+		#header{
+			display: inline-block;
+			width: 100%;
+			vertical-align: top;
+		}
+
+		#header #imglogo {
+			float: left;
+			margin-left: 20px;
+			display: inline-table;
+		}
+
+		#header #logo{
+			font-size: 0px;
+		}
+
+		#header #menu {
+			-webkit-border-radius: 15px;
+			-moz-border-radius: 15px;
+			border-radius: 15px;
+			background-color: #a1a1a1;																																																														
+			float: right;
+			margin-right: 40px;
+		}
+
+		#header ul{
+			display: inline-table;
+			padding: 25px;
+		}
+
+		#header li{
+			display: inline;
+			color: #000;
+			padding: 20px;
+			font-weight: bold;
+		}
+
+		#header li:hover{
+			-webkit-border-radius: 15px;
+			-moz-border-radius: 15px;
+			border-radius: 15px;
+			background-color: #a57a51;
+			color: #fff;
+
+		}
+
+		a{
+			text-decoration: none;
+			
+		}
+		#contain{
+			margin: 0 auto;
+		}
+
+	
+
+		}
+		
+		#contain h2{
+			margin: 0 auto;
+			text-align: center;
+
+		}
+	
+
+
+		#contain img{
+			display: block;
+			margin: 0 auto;
+		}
+
+		hr{
+			margin: 0;
+			padding : 0;
+			height: 15px;
+			border: 0;
+			box-shadow: 0px 12px 12px -10px #8c8b8b inset;
+		}
+
+		#footer{
+			text-align: center;
+			color: #b2b2b2;
+			font-style: italic;
+			font-size: 14px;
+		}
+
+		th, td {
+    padding: 11px;
+}
